@@ -1,3 +1,3 @@
-# create arweave wallet file
+# read an arweave wallet file's address
 
-A command line program that creates a wallet json file.
+A command line program that reads a wallet json file's address.

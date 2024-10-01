@@ -1,10 +1,10 @@
 {
-  "name": "@permaweb/wallet",
-  "description": "create arweave wallet file",
+  "name": "@permaweb/address",
+  "description": "read an arweave wallet file's address",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "https://github.com/permaweb/wallet.git",
-  "author": "Tom Wilson <tom@hyper.io>",
+  "repository": "https://github.com/permaweb/address.git",
+  "author": "Elliot Sayes <elliot@sayes.cloud>",
   "license": "MIT",
   "dependencies": {
     "arweave": "^1.14.4"
